@@ -39,7 +39,7 @@ h1{font-size:clamp(34px,10vw,52px)}h2{font-size:28px;margin-bottom:6px}
 .env .h{position:absolute;top:58px;left:calc(50% - 16px);font-size:32px;z-index:2;animation:hb 1.2s infinite}
 @keyframes hb{50%{transform:scale(1.25)}}
 .env.open .fl{transform:rotateX(180deg)}.env.open .h{display:none}
-#letter{display:none;text-align:left;max-height:60vh;overflow:auto;font-size:15.5px;line-height:1.75}
+#letter{display:none;text-align:left;max-height:52vh;overflow:auto;font-size:15.5px;line-height:1.75}
 #letter .w{opacity:0;display:inline-block;margin-right:.28em;filter:blur(5px);animation:wd .7s forwards}
 @keyframes wd{to{opacity:1;filter:none}}
 #letter .sg{font-family:'Caveat',cursive;font-size:26px;color:var(--vio);display:block;margin-top:10px;text-align:right}

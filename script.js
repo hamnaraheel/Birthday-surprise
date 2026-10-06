@@ -1,7 +1,7 @@
 /* ====== EDIT HERE ====== */
 const PASS="2828";
-// Letter text (edit here)
-const LETTER=["Dear 오빠,","Happy Birthday! 🎉 Today is the day the world got one of its best people, and I got the best brother. Thank you for every laugh, every bit of support, and for always being there when I needed you.","You make everything better just by being you. I'm so proud of you, and I'm so lucky to have you in my life.","I wish you endless happiness, success, and everything your heart dreams of. Here's to many more years together! 🎂"];
+// Videos: put your video links/paths here later (e.g. "video1.mp4"). Empty = placeholder.
+
 const SIGN="Always yours 💜";
 /* ======================= */
 const $=s=>document.querySelector(s),pgs=[...document.querySelectorAll('.pg')];
