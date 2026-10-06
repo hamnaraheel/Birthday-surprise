@@ -86,8 +86,3 @@ svg.cake{width:250px;overflow:visible}
 .sp{position:absolute;width:8px;height:8px;border-radius:50%;pointer-events:none;animation:spk .6s forwards}
 @keyframes spk{to{transform:translate(var(--x),var(--y)) scale(.2);opacity:0}}
 .photo{width:min(86%,340px);padding:10px;background:#fff;border-radius:18px;box-shadow:0 16px 38px rgba(168,85,200,.3);transform:rotate(-2deg);margin:12px 0;animation:in .8s}.photo img{width:100%;display:block;border-radius:10px}
-
-/* scratch photo */
-.scratch-wrap{position:relative;width:min(86%,340px);margin:12px 0;border-radius:18px;overflow:hidden;box-shadow:0 16px 38px rgba(168,85,200,.3);background:#fff;padding:0}
-.scratch-photo{display:block;width:100%;height:auto}
-#scratchCanvas{position:absolute;inset:0;touch-action:none;cursor:pointer}
